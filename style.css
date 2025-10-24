@@ -80,3 +80,16 @@ body {
 .incorrect {
     background: #ff9393;
 }
+
+.patent {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.patent p {
+    color: #fff;
+}
+
+.patent p span {
+    color: #456be6;
+}
